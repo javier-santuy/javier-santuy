@@ -14,13 +14,14 @@ Hello! 👋 I’m a **Data Analyst** who loves digging into data like a detectiv
  🛠️ **Tools and Technologies**
  
 <img align="left" alt="Looker" width="30px" height = "30px"  style="padding-right:10px" src = "Images\looker-icon-svgrepo-com.svg">
-<img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<img align="left" alt="Tableu" width = "90px" height = 90px  style="padding-right:10px" src="Images/tableau-svgrepo-com.svg">
 <img align="left" alt="SQL" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+<img align="left" alt= "Big query" width = "30px" style = "padding-right:10px" src= "Images/google-bigquery-logo-1.svg">
+<img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Jupyter Notebooks" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Tableu" width = "90px" height = 90px  style="padding-right:10px" src="Images/tableau-svgrepo-com.svg">
-<img align="let" alt= "Big query" width = "30px" style = "padding-right:10px" src= "Images/google-bigquery-logo-1.svg">
+
 
 
 <div style="clear: both; margin: 0; padding: 0;"></div> 
