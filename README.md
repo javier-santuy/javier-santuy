@@ -1,7 +1,7 @@
 
 # Javier Santuy Muñoz
 
-Hello! 👋 I’m a **Data Analyst** who loves digging into data like a detective 🕵️‍♂️ to figure out what's hidden. This approach helps me understand and solve real-world problems. I’ve been working on creating dashboards to highlight the key insights, using tools like BigQuery, Looker, and Jupyter Notebooks for my analysis. <br><br>
+Hello! 👋 I’m a **Data Analyst** who loves digging into data like a detective 🕵️‍♂️ to figure out what's hidden. This approach helps me understand and solve real-world problems. I’ve been working on creating dashboards and reports to highlight the key insights, using tools like BigQuery, Looker, and Jupyter Notebooks for my analysis. <br><br>
 
 📚 **What You’ll Find in My Repository**
 
