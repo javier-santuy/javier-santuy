@@ -23,7 +23,7 @@ Hello! 👋 I’m a **Data Analyst** passionate about digging like a detective �
 <img align="left" alt="Tableu" width = "90px" height = 90px  style="padding-right:10px" src="Images/tableau-svgrepo-com.svg">
 <div style="clear: both; margin: 0; padding: 0;"></div> 
  
- 🌱 **My Goals**
+ ## 🌱 **My Goals**
 
 To continuously learn and explore new technologies in the data analytics ecosystem.
 
