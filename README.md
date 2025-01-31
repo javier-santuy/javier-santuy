@@ -1,7 +1,7 @@
 
 # Javier Santuy Muñoz
 
-Hello! 👋 I’m a **Data Analyst** passionate about digging like a detective 🕵️‍♂️ into data to find what it is hidding. This aproach helps me to understand and solve real-world problems. I’ve been working creating dashboards to visualize what its important using tools like BigQuery, Looker, and Jupyter Notebooks to make my analysis. <br><br>
+Hello! 👋 I’m a **Data Analyst** who loves digging into data like a detective 🕵️‍♂️ to figure out what's hidden. This approach helps me understand and solve real-world problems. I’ve been working on creating dashboards to highlight the key insights, using tools like BigQuery, Looker, and Jupyter Notebooks for my analysis. <br><br>
 
 📚 **What You’ll Find in My Repository**
 
@@ -30,7 +30,9 @@ Hello! 👋 I’m a **Data Analyst** passionate about digging like a detective �
 
 To continuously learn and explore new technologies in the data analytics ecosystem.
 
-To deepen my expertise in advanced Business Intelligence tools and Machine Learning.
+To deepen my expertise in advanced Business Intelligence tools, Machine Learning, and statistical analysis techniques.
+
+In the future, I aim to apply these skills in healthcare-related work environments, helping to solve complex challenges in the industry.
 
 ## 👋🏻 **Connect with Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-santuy-mu%C3%B1oz-55b257324/)
